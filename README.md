@@ -51,8 +51,7 @@ poc-lolin-example/
 │   └── main.cpp          # Código fuente con lógica de parpadeo y monitor serie
 ├── include/              # Cabeceras personalizadas del proyecto
 ├── lib/                  # Librerías locales específicas
-├── test/                 # Pruebas unitarias
-└── .idea/                # Ajustes de proyecto y workspace para CLion / PlatformIO
+└── test/                 # Pruebas unitarias
 ```
 
 ---
